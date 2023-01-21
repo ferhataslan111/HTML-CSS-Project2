@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Banner{
+	border: 1px outset black;
+	border-radius: 50px;
+	height: 100px;
+	background-color: #366193;
+	width: 100%
+}
+
+#Nav{
+	border: 0px outset #989898; 
+	height: 30px;
+	background-color: #D0D0D0;
+	margin-top: 2px;
+	width: 100%
+}
+
+#NavIn{
+	border: 0px outset black;
+	width: 51%;
+	height: 100%;
+	margin: 0px auto;
+	
+}
+
+.navv{
+	float: left;
+	border: 0px outset red;
+	width: 24%;
+	height: 70%;
+	margin: 2px;
+}
+
+#Section{
+	border: 0px outset blue;
+	height: 400px;
+	background-color: #FFE086;
+	cursor: progress;
+	width: 100%;
+	margin: 2px auto;
+	opacity: 0.8
+	
+	
+}
+
+#Article{
+	border: 0px;
+	height: 150px;
+	width: 100%;
+	margin-top: 2px;
+	margin: 0px auto;
+	
+}
+
+.arts{
+	float: left;
+	border: 1px outset black;
+	border-radius: 30px;
+	height: 140px;
+	width: 19%;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 2px;
+		
+}
+
+#Footer{
+	border: 0px outset #F17292;
+	background-color: #366193;
+	height: 20px;
+	width: 100%;
+	margin-top: 3px
+}
